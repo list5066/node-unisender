@@ -1,5 +1,5 @@
 {
-  "name": "unisender",
+  "name": "@list5066/unisender",
   "version": "1.1.1",
   "readmeFilename": "README.md",
   "description": "Promise-based wrapper for unisender api",
@@ -16,19 +16,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/s0ph1e/node-unisender.git"
+    "url": "git://github.com/list5066/node-unisender.git"
   },
   "author": "s0ph1e",
+  "contributors": [
+    {
+      "name": "list5066"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.0.6",
-    "lodash": "^4.17.5",
+    "lodash":   "^4.17.5",
     "request": "^2.81.0"
   },
   "bugs": {
-    "url": "https://github.com/s0ph1e/node-unisender/issues"
+    "url": "https://github.com/list5066/node-unisender/issues"
   },
-  "homepage": "https://github.com/s0ph1e/node-unisender",
+  "homepage": "https://github.com/list5066/node-unisender",
   "devDependencies": {
     "chai": "^4.1.2",
     "codeclimate-test-reporter": "^0.5.0",
