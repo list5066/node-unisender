@@ -47,7 +47,10 @@ var methods = [
 	'getTariffs',
 	'getAvailableTariffs',
 	'changeTariff',
-	'callbacks'
+	'callbacks',
+
+	// template
+	'getTemplate'
 ];
 
 module.exports = methods;
